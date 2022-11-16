@@ -1,0 +1,32 @@
+.full{
+    padding: 0;
+    background-image: url('/projetoraiz/img/fundoinicial2.webp');
+    font-size: clamp(1em, 1em + 1vw, 1.5em);
+}
+.caralha{
+    padding: 25% 8%;
+    margin: 0 0 0 11%;
+    background: none;
+}
+.tini{
+    color: #fff;
+    font-weight: 600;
+}
+.tiini{
+    color: #fff;
+}
+.bini{
+    background-color: #fff;
+    text-transform: uppercase;
+    padding: 3% 11%;
+    border-radius: 0;
+}
+.container-fluid{
+    background-image: url("/projetoraiz/img/FUNDOinicial.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    background-size:100%;
+
+
+}
